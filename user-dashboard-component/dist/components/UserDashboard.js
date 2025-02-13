@@ -71,7 +71,7 @@ class UserDashboard extends React.Component {
         fontFamily: 'Arial, sans-serif'
       },
       children: [/*#__PURE__*/(0, _jsxRuntime.jsx)("h2", {
-        children: "User Dashboard"
+        children: "Account Certification"
       }), /*#__PURE__*/(0, _jsxRuntime.jsx)("div", {
         style: {
           display: 'grid',

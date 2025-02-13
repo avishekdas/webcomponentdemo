@@ -41,7 +41,7 @@ class UserDashboard extends React.Component {
 
     return (
       <div style={{ padding: '20px', fontFamily: 'Arial, sans-serif' }}>
-        <h2>User Dashboard</h2>
+        <h2>Account Certification</h2>
         <div style={{ 
           display: 'grid', 
           gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', 
